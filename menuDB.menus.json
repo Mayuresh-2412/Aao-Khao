@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745adc"
+  },
+  "name": "Butter Chicken",
+  "description": "Tender chicken in rich tomato cream sauce",
+  "price": 349,
+  "category": "Main Course",
+  "image": "https://source.unsplash.com/random/800x600/?butter-chicken"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745add"
+  },
+  "name": "Paneer Tikka",
+  "description": "Grilled cottage cheese with Indian spices",
+  "price": 299,
+  "category": "Appetizers",
+  "image": "https://source.unsplash.com/random/800x600/?paneer-tikka"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ade"
+  },
+  "name": "Chocolate Brownie",
+  "description": "Warm chocolate brownie with vanilla ice cream",
+  "price": 199,
+  "category": "Desserts",
+  "image": "https://source.unsplash.com/random/800x600/?chocolate-brownie"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745adf"
+  },
+  "name": "Mango Lassi",
+  "description": "Fresh mango yogurt smoothie",
+  "price": 129,
+  "category": "Beverages",
+  "image": "https://source.unsplash.com/random/800x600/?mango-lassi"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae0"
+  },
+  "name": "Biryani",
+  "description": "Aromatic rice with spiced meat/vegetables",
+  "price": 399,
+  "category": "Main Course",
+  "image": "https://source.unsplash.com/random/800x600/?biryani"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae1"
+  },
+  "name": "Spring Rolls",
+  "description": "Crispy rolls with vegetable filling",
+  "price": 249,
+  "category": "Appetizers",
+  "image": "https://source.unsplash.com/random/800x600/?spring-rolls"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae2"
+  },
+  "name": "Gulab Jamun",
+  "description": "Sweet milk dumplings in sugar syrup",
+  "price": 149,
+  "category": "Desserts",
+  "image": "https://source.unsplash.com/random/800x600/?gulab-jamun"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae3"
+  },
+  "name": "Masala Chai",
+  "description": "Spiced Indian tea with milk",
+  "price": 89,
+  "category": "Beverages",
+  "image": "https://source.unsplash.com/random/800x600/?masala-chai"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae4"
+  },
+  "name": "Dal Makhani",
+  "description": "Creamy black lentils slow-cooked overnight",
+  "price": 299,
+  "category": "Main Course",
+  "image": "https://source.unsplash.com/random/800x600/?dal-makhani"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae5"
+  },
+  "name": "Samosa",
+  "description": "Crispy pastry with spiced potato filling",
+  "price": 99,
+  "category": "Appetizers",
+  "image": "https://source.unsplash.com/random/800x600/?samosa"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae6"
+  },
+  "name": "Rasmalai",
+  "description": "Soft cottage cheese dumplings in cream",
+  "price": 179,
+  "category": "Desserts",
+  "image": "https://source.unsplash.com/random/800x600/?rasmalai"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae7"
+  },
+  "name": "Fresh Lime Soda",
+  "description": "Refreshing lime soda with mint",
+  "price": 79,
+  "category": "Beverages",
+  "image": "https://source.unsplash.com/random/800x600/?lime-soda"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae8"
+  },
+  "name": "Palak Paneer",
+  "description": "Cottage cheese in creamy spinach gravy",
+  "price": 329,
+  "category": "Main Course",
+  "image": "https://source.unsplash.com/random/800x600/?palak-paneer"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745ae9"
+  },
+  "name": "Chicken 65",
+  "description": "Spicy deep-fried chicken bites",
+  "price": 279,
+  "category": "Appetizers",
+  "image": "https://source.unsplash.com/random/800x600/?fried-chicken"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745aea"
+  },
+  "name": "Kulfi",
+  "description": "Traditional Indian ice cream",
+  "price": 159,
+  "category": "Desserts",
+  "image": "https://source.unsplash.com/random/800x600/?kulfi"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745aeb"
+  },
+  "name": "Virgin Mojito",
+  "description": "Mint and lime mocktail",
+  "price": 149,
+  "category": "Beverages",
+  "image": "https://source.unsplash.com/random/800x600/?mojito"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745aec"
+  },
+  "name": "Naan Bread",
+  "description": "Soft Indian bread from tandoor",
+  "price": 69,
+  "category": "Main Course",
+  "image": "https://source.unsplash.com/random/800x600/?naan"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745aed"
+  },
+  "name": "Onion Bhaji",
+  "description": "Crispy onion fritters",
+  "price": 149,
+  "category": "Appetizers",
+  "image": "https://source.unsplash.com/random/800x600/?bhaji"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745aee"
+  },
+  "name": "Gajar Halwa",
+  "description": "Sweet carrot pudding with nuts",
+  "price": 189,
+  "category": "Desserts",
+  "image": "https://source.unsplash.com/random/800x600/?halwa"
+},
+{
+  "_id": {
+    "$oid": "679f4cb03ae7633610745aef"
+  },
+  "name": "Cold Coffee",
+  "description": "Creamy blended coffee drink",
+  "price": 169,
+  "category": "Beverages",
+  "image": "https://source.unsplash.com/random/800x600/?cold-coffee"
+}]
